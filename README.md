@@ -8,8 +8,6 @@ SortWords provides a flexible and extensible framework for sorting words. It con
 
 The project emphasizes the following key principles and concepts:
 
-- **SOLID Principles:** The SortWords project adheres to SOLID principles, including the Single Responsibility Principle (SRP), Open-Closed Principle (OCP), Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP), and Dependency Inversion Principle (DIP). These principles guide the design and implementation of each module, ensuring modularity, extensibility, and easy maintainability.
-
 - **Object-Oriented Programming (OOP):** The project leverages core OOP concepts such as encapsulation, inheritance, and abstraction. Each module encapsulates its specific functionality and utilizes inheritance to implement interfaces and extend behavior. Abstraction is achieved through the use of interfaces, enabling polymorphism and modular design.
 
 - **Concurrency:** The SortWords application utilizes concurrency to improve performance and efficiency. It employs multiple threads for parallel file reading and processing, making use of thread pooling for effective thread management and resource utilization.
